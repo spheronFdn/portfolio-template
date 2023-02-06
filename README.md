@@ -2,7 +2,7 @@
 
 # Portfolio Starter
 
-#### A Portfolio Starter to create your own portfolio site powered by Spheron.
+#### A Portfolio Starter to create your own beautiful portfolio site powered by Spheron.
 
 This beautiful portfolio starter kit which contains all the required tools to make you look awesome is forked from [AnishDe12020/portfolio](https://github.com/AnishDe12020/portfolio) which is created by Anish De – [anishde.dev](https://anishde.dev). Bit shoutout to him!!!
 
@@ -24,8 +24,8 @@ This will start a server on http://localhost:3000 where you can check the change
 yarn dev
 ```
 
-### 3️⃣ Build your site
-This will use gatsby build creating a directory called public which contains the site that will be uploaded
+### 3️⃣ Build and export your site
+This will use next build and export script for creating a directory called out which contains the site that will be uploaded
 ```
 yarn build && yarn export
 ```
@@ -36,6 +36,6 @@ We encourage you to read the contribution guidelines to learn about our developm
 The Spheron community extends beyond issues and pull requests! You can support Spheron in many other ways as well.
 
 ## Community
-For help, discussions or any other queries: Join us on [Discord](https://discord.com/invite/ahxuCtm)
+For help, discussions or any other queries: Join us at Spheron [Discord](https://discord.com/invite/ahxuCtm) Group
 
 
