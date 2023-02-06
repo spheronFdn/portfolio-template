@@ -8,7 +8,7 @@ This beautiful portfolio starter kit which contains all the required tools to ma
 
 Just click on Use this template button, add the content, deploy on Spheron to make it immutable. And that's it!
 
-[Live Demo on Spheron](https://gatsby-starter-portfolio-minimal-theme.netlify.app/)
+[Live Demo on Spheron](https://portfolio-starter-62dc1e.spheron.app)
 
 ## Getting started
 Here is a summary of the available scripts and a description.
@@ -31,11 +31,10 @@ yarn build && yarn export
 ```
 
 ## Contribution
-We encourage you to read the contribution guidelines to learn about our development process and how to propose bug fixes and improvements before submitting a pull request.
-
 The Spheron community extends beyond issues and pull requests! You can support Spheron in many other ways as well.
+You can fork it and add your update before raising the pull request. When creating your PR, please provide PR description properly. It will help us review the content in your PR.
 
 ## Community
-For help, discussions or any other queries: Join us at Spheron [Discord](https://discord.com/invite/ahxuCtm) Group
+For help, discussions or any other queries: Join us at Spheron [Discord Group](https://discord.com/invite/ahxuCtm) 
 
 
